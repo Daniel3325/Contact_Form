@@ -1,0 +1,19 @@
+body{
+    background-color: #e0f1e7;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.center-box{
+    width: 1000px;
+    height: 850px;
+    background-color: #fefffe;
+    border-radius: 18px;
+}
+
+.center-box h1{
+    font-family: Karla;
+    margin: 50px;
+}
+
