@@ -16,4 +16,70 @@ body{
     font-family: Karla;
     margin: 50px;
 }
+/*----------------Name----------------*/
+.name{
+    width: 1000px;
+    height: 100px;
+    /*background-color: rgba(0, 128, 0, 0.164);*/
+}
 
+/*----------------First----------------*/
+
+.name .first{
+    width: 500px;
+    float: left;
+}
+
+.name .first p{
+    margin: 0 0 0 50px;
+    font-family: Karla;
+    color: rgb(83, 83, 83);
+    display: inline;
+}
+
+.name .first h5{
+    display: inline;
+    color: #1a7d6a;
+}
+
+.name .first textarea{
+    margin: 10px 0 0 50px;
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: Karla, sans-serif;
+    line-height: 40px;
+    resize: none;
+}
+
+/*----------------Last----------------*/
+
+.name .last{
+    width: 500px;
+    float: right;
+    display: inline;
+}
+
+.name .last p{
+    margin: 0 0 0 50px;
+    font-family: Karla;
+    color: rgb(83, 83, 83);
+    display: inline;
+}
+
+.name .last h5{
+    display: inline;
+    color: #1a7d6a;
+}
+
+.name .last textarea{
+    margin: 10px 0 0 50px;
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: Karla, sans-serif;
+    line-height: 40px;
+    resize: none;
+}
